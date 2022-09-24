@@ -1,0 +1,16 @@
+{
+  "name": "dojonextqa01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.27.0-alpha-sep-24-2022"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^8.6.0"
+  }
+}
