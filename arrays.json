@@ -1,0 +1,102 @@
+{
+  "boardLists": [
+    {
+      "listName2": "",
+      "listId2": ""
+    },
+    {
+      "listName2": "",
+      "listId2": ""
+    },
+    {
+      "listName2": "",
+      "listId2": ""
+    }
+  ],
+  "listsCardsObjs": [
+    {
+      "listName": "Backlog",
+      "listId": "",
+      "listDescription": "Descrição da coluna backlog",
+      "cards": [
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "backlog task card01",
+          "description": ""
+        },
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "backlog task card03",
+          "description": ""
+        },
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "backlog task card03",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "listName": "To Do",
+      "listId": "",
+      "listDescription": "descrição da coluna ToDo",
+      "cards": [
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "To Do Bug card01",
+          "description": ""
+        },
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "To Do Bug card03",
+          "description": ""
+        },
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "To Do Bug card03",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "listName": "In Progress",
+      "listId": "",
+      "listDescription": "descrição da coluna ToDo",
+      "cards": [
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "To Do Bug card01",
+          "description": ""
+        },
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "To Do Bug card03",
+          "description": ""
+        },
+        {
+          "id": "",
+          "id2": "",
+          "name2": "",
+          "name": "To Do Bug card03",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
